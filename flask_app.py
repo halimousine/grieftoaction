@@ -15,5 +15,13 @@ def index():
     return redirect(url_for('index'))
 
 @app.route('/about')
-def about():
-    return 'Learn more about us.'
+def about_index():
+    return render_template('about.html')
+
+@app.route('/projects')
+def projects_index():
+    return render_template('projects.html')
+
+@app.route('/contact')
+def contact_index():
+    return render_template('contact.html')
