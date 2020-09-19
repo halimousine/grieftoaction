@@ -1,5 +1,7 @@
 # Grief to Action
+
 Grief to Action Website + Project Elevate Web Application
+
 powered by Center for Analytical Approaches to Social Innovation - University of Pittsburgh
 
 The recent events have ignited conversation and action throughout the whole country to support marginalized and underrepresented minorities in America. 
